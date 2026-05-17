@@ -2,9 +2,6 @@
 
 Modern responsive landing page developed for a barbershop focused on improving digital presence and increasing customer conversion.
 
-## 🔗 Live Demo
-👉 https://marcospaulo-ai.github.io/modern-barbers-lp/
-
 ## 📌 Project Overview
 This project was created to simulate a real-world digital solution for a barbershop business, focusing on building a strong online presence and improving customer acquisition through a modern landing page.
 
